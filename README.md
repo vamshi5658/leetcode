@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vamshi5658/leetcode/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/vamshi5658/leetcode/tree/master/0063-unique-paths-ii) |
 ## Dynamic Programming
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vamshi5658/leetcode/tree/master/0063-unique-paths-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/vamshi5658/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
