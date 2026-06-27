@@ -18,6 +18,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/vamshi5658/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vamshi5658/leetcode/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/vamshi5658/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vamshi5658/leetcode/tree/master/0063-unique-paths-ii) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/vamshi5658/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vamshi5658/leetcode/tree/master/0040-combination-sum-ii) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vamshi5658/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
