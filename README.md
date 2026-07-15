@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vamshi5658/leetcode/tree/master/0002-add-two-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vamshi5658/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vamshi5658/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vamshi5658/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
