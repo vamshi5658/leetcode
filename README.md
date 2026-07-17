@@ -19,11 +19,13 @@
 | ------- |
 | [0039-combination-sum](https://github.com/vamshi5658/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vamshi5658/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/vamshi5658/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vamshi5658/leetcode/tree/master/0063-unique-paths-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/vamshi5658/leetcode/tree/master/0063-unique-paths-ii) |
 ## Matrix
 |  |
@@ -68,4 +70,16 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vamshi5658/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
