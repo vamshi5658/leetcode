@@ -22,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/vamshi5658/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vamshi5658/leetcode/tree/master/0063-unique-paths-ii) |
+| [0503-next-greater-element-ii](https://github.com/vamshi5658/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,8 +79,10 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/vamshi5658/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/vamshi5658/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
