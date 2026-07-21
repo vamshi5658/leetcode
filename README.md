@@ -22,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/vamshi5658/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vamshi5658/leetcode/tree/master/0063-unique-paths-ii) |
+| [0179-largest-number](https://github.com/vamshi5658/leetcode/tree/master/0179-largest-number) |
 | [0503-next-greater-element-ii](https://github.com/vamshi5658/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vamshi5658/leetcode/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/vamshi5658/leetcode/tree/master/0179-largest-number) |
 ## Tree
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vamshi5658/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/vamshi5658/leetcode/tree/master/0503-next-greater-element-ii) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vamshi5658/leetcode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vamshi5658/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
