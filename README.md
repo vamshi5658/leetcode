@@ -9,11 +9,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vamshi5658/leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/vamshi5658/leetcode/tree/master/0060-permutation-sequence) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vamshi5658/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vamshi5658/leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/vamshi5658/leetcode/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
 | ------- |
